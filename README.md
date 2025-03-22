@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## Name : Yogaraj S
-## Reg no: 212223040248
+## Name : THARUN D
+## Reg no: 212223240167
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
